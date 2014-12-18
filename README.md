@@ -32,6 +32,9 @@
 * [开源的 mac editor](https://github.com/QiuZhiFei/CotEditor)
 * [shell 打包 app](https://github.com/QiuZhiFei/xcode_shell)
 
+### mac 开发
+* [一个成型的mac插件](https://github.com/QiuZhiFei/docpeek)
+
 ### swift
 
 * [swift一个简单的程序](https://github.com/QiuZhiFei/FoodPin)
