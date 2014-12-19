@@ -35,6 +35,7 @@
 ### mac 开发
 * [一个成型的mac插件](https://github.com/QiuZhiFei/docpeek)
 * [一个很成熟的mac插件](https://github.com/QiuZhiFei/frenzy)
+* [mac 快捷键插件](https://github.com/QiuZhiFei/ShiftIt)
 
 ### swift
 
