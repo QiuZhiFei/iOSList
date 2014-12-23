@@ -15,7 +15,7 @@
 
 ##### 其他
 * [fir 自动更新](https://github.com/QiuZhiFei/firVersion)
-
+* [AES 加密](https://github.com/QiuZhiFei/AES)
 
 #### 一时兴起，后续查看
 * [iOS8 通知栏扩展](https://github.com/QiuZhiFei/iphoneExtension)
